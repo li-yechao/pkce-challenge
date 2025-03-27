@@ -1,7 +1,6 @@
 .DS_Store
 node_modules/
 .nyc_output/
-dist/
 .parcel-cache/
 .vscode/
 src/index.browser.ts
